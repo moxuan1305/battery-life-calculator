@@ -15,4 +15,4 @@ Web tool for calculating remaining battery life based on:
 2. Enter usage months and cycles
 3. Click Calculate button
 
-[Live Demo](https://yourusername.github.io/repository-name/)
+[Live Demo](https://moxuan1305.github.io/battery-life-calculator/))
